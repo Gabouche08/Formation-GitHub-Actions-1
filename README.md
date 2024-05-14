@@ -6,7 +6,7 @@ _Create and run a GitHub Actions workflow._
 
 </header>
 
-## Step 5: Trigger the workflow
+## Step 5: Trigger the workflow :stuck_out_tongue_winking_eye:
 
 _You've now added a fully functioning workflow to your repository! :smile:_
 
